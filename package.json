@@ -1,8 +1,0 @@
-{
-  "name": "we-core",
-  "version": "1.0.0",
-  "description": "A simple package that does nothing",
-  "main": "index.js",
-  "author": "simple",
-  "license": "MIT"
-}
